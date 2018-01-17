@@ -1,0 +1,2 @@
+Este es el primer cambio del archivo de la clase de GitKraken:
+1234567890
