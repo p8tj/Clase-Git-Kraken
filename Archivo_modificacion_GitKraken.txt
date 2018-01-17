@@ -1,2 +1,5 @@
 Este es el primer cambio del archivo de la clase de GitKraken:
 1234567890
+
+Pull Request:
+Quiero realizar esta modificacion a tu archivo 
